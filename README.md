@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliZaminShigri
 - 👀 I’m interested in web and app development
-- 🌱 I’m currently learning NodeJS and JavaScript
+- 🌱 I’m a programmer in JAVA, C++, Python and other top languages
 - 💞️ I’m looking to collaborate on different development projects
 - 📫 Reach me on zaminali7865@gmail.com
 
