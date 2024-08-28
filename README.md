@@ -1,7 +1,5 @@
-# Hi there, I'm Zamin Ali 👋
-
-## About Me
-I'm a Computer Science graduate with a passion for programming and software development. I have extensive experience in building web and mobile applications, and I'm always eager to learn new technologies and improve my skills.
+👋 Hi, I'm Zamin Ali
+A passionate Software Developer skilled in Java, C++, Python, and full-stack web development. I specialize in building efficient, scalable solutions for web and mobile platforms, with a focus on clean, maintainable code and project management excellence.
 
 - **Email**: [Zaminali7865@gmail.com](mailto:Zaminali7865@gmail.com)
 
