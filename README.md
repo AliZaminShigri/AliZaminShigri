@@ -31,11 +31,8 @@ A passionate Software Developer skilled in Java, C++, Python, and full-stack web
 - **Efficient Code Writing**: Write clean, maintainable, and efficient code.
 - **Team Collaboration**: Work effectively in teams to achieve project goals.
 
-## 📈 GitHub Stats
-![Zamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-## 📫 How to reach me
+## 📫 Reach me at : 
 - **Email**: [Zaminali7865@gmail.com](mailto:Zaminali7865@gmail.com)
 
 ---
